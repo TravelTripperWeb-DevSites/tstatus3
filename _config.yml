@@ -1,4 +1,17 @@
 
+gems:
+- jekyll-sitemap
+keep_files:
+- assets
+rsync_copy:
+- _assets
+exclude:
+- sitemap.json
+- media.json
+- old_media.json
+- models.json
+
+
 hotel_id: '544345'
 
 api_header_key: 'x-api-key'

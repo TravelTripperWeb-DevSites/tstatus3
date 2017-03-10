@@ -4,3 +4,9 @@ _site/*
 feed.xml
 .idea*
 sitemap.json
+
+sitemap.json
+media.json
+old_media.json
+models.json
+_site/*

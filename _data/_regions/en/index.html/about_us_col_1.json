@@ -1,6 +1,6 @@
 [
 	{
 		"_template": "html",
-		"content": "<p>Edit this text block to give a general overview of the hotel property highlighting location, building characteristics, <strong>nearby</strong> landmarks, and popular destinations.</p>"
+		"content": "<p>Edit this text block to give a general overview of the hotel property highlighting location, building characteristics, <em><strong>nearby</strong></em> landmarks, and popular destinations.</p>"
 	}
 ]
